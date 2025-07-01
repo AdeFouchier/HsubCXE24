@@ -1,0 +1,14 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2A8543FB541022BB-377B13138E8D556F
+#datatype	feats
+#status	0
+#Start time	2024-02-16T12:51:06	Run time	0:00:00:06
+#status	success
+
+Query	Type	Title	coordinates	complete size	mapped size	source domain
+Q#1 - >HsubCXE5_nosp	generic	catalytic triad	S201,E333,H451	3	3	238191
+Q#1 - >HsubCXE5_nosp	generic	substrate binding pocket	P120,G121,G122,C200,S201,A202,I205,I358,S362,F363,Y401,H452,L455	13	13	238191
+Q#2 - >HsubCXE16_nosp	generic	catalytic triad	S199,E329,H450	3	3	238191
+Q#2 - >HsubCXE16_nosp	generic	substrate binding pocket	A118,G119,G120,Y198,S199,A200,F203,G355,F359,Y360,Y399,H451,L454	13	13	238191
+Q#3 - >HsubCXE21_allele1_nosp	generic	catalytic triad	S192,E322,H441	3	3	238191
+Q#3 - >HsubCXE21_allele1_nosp	generic	substrate binding pocket	P111,G112,G113,C191,S192,A193,V196,I347,S351,F352,Y390,H442,L445	13	13	238191

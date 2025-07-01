@@ -1,0 +1,5 @@
+exhaustiveness = 10
+
+cpu = 7
+
+num_modes = 50

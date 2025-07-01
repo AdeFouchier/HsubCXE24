@@ -1,0 +1,5 @@
+Check the units of Vina output
+
+See how many binding without steric clashes in mut vs wt
+
+is there more possible binding "model" in mutant enzyme ?

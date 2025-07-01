@@ -1,0 +1,13 @@
+Allowed overlap: 0.6
+H-bond overlap reduction: 0.4
+Ignore clashes between atoms separated by 4 bonds or less
+Detect intra-residue clashes: False
+Detect intra-molecule clashes: True
+
+5 clashes
+                                atom1                                                         atom2                         overlap  distance
+HvirCXE21_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.3/? UNL 1 C    HvirCXE21_noSP_ranked0_orient.pdb #1/A TYR 118 HH    0.702    2.178
+HvirCXE21_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.35/? UNL 1 C   HvirCXE21_noSP_ranked0_orient.pdb #1/A TYR 118 HE2   0.652    2.228
+HvirCXE21_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.7/? UNL 1 C    HvirCXE21_noSP_ranked0_orient.pdb #1/A TRP 328 HZ2   0.635    2.245
+HvirCXE21_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.24/? UNL 1 C   HvirCXE21_noSP_ranked0_orient.pdb #1/A TYR 118 HE2   0.634    2.246
+HvirCXE21_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.12/? UNL 1 C  HvirCXE21_noSP_ranked0_orient.pdb #1/A LEU 282 CD1   0.633    2.947

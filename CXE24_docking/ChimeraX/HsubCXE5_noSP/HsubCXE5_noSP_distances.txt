@@ -1,0 +1,297 @@
+Model 1 is HsubCXE5_noSP_ranked0_orient.pdb
+Model 2.1 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.2 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.3 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.4 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.5 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.6 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.7 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.8 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.9 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.10 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.11 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.12 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.13 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.14 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.15 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.16 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.17 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.18 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.19 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.20 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.21 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.22 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.23 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.24 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.25 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.26 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.27 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.28 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.29 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.30 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.31 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.32 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.33 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.34 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.35 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.36 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.37 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.38 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.39 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.40 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.41 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.42 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.43 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.44 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.45 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.46 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.47 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.48 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.49 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 2.50 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb
+Model 3.1 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.2 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.3 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.4 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.5 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.6 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.7 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.8 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.9 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.10 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.11 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.12 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.13 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.14 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.15 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.16 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.17 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.18 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.19 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.20 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.21 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.22 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.23 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.24 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.25 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.26 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.27 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.28 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.29 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.30 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.31 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.32 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.33 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.34 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.35 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.36 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.37 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.38 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.39 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.40 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.41 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.42 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.43 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.44 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.45 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.46 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.47 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.48 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.49 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 3.50 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb
+Model 4.1 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.2 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.3 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.4 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.5 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.6 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.7 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.8 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.9 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.10 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.11 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.12 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.13 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.14 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.15 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.16 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.17 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.18 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.19 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.20 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.21 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.22 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.23 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.24 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.25 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.26 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.27 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.28 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.29 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.30 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.31 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.32 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.33 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.34 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.35 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.36 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.37 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.38 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.39 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.40 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.41 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.42 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.43 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.44 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.45 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.46 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.47 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.48 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.49 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+Model 4.50 is HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb
+
+Distance information:
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.8/? UNL 1 C:  3.018
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.7/? UNL 1 C:  3.044
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.10/? UNL 1 C:  3.286
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.26/? UNL 1 C:  3.374
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.36/? UNL 1 C:  3.397
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.2/? UNL 1 C:  3.422
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.9/? UNL 1 C:  3.499
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.3/? UNL 1 C:  3.527
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.10/? UNL 1 C:  3.549
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.33/? UNL 1 C:  3.582
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.13/? UNL 1 C:  3.587
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.34/? UNL 1 C:  3.639
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.15/? UNL 1 C:  3.646
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.2/? UNL 1 C:  3.673
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.38/? UNL 1 C:  3.721
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.4/? UNL 1 C:  3.793
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.25/? UNL 1 C:  3.810
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.23/? UNL 1 C:  3.827
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.5/? UNL 1 C:  3.835
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.6/? UNL 1 C:  4.059
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.33/? UNL 1 C:  4.154
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.37/? UNL 1 C:  4.322
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.30/? UNL 1 C:  4.331
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.13/? UNL 1 C:  4.550
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.1/? UNL 1 C:  4.553
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.32/? UNL 1 C:  4.715
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.24/? UNL 1 C:  4.749
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.31/? UNL 1 C:  4.785
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.3/? UNL 1 C:  4.843
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.4/? UNL 1 C:  5.077
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.48/? UNL 1 C:  5.233
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.37/? UNL 1 C:  5.458
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.20/? UNL 1 C:  5.469
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.42/? UNL 1 C:  5.567
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.21/? UNL 1 C:  5.833
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.22/? UNL 1 C:  6.043
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.43/? UNL 1 C:  7.128
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.43/? UNL 1 C:  7.140
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.35/? UNL 1 C:  7.210
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.25/? UNL 1 C:  7.212
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.16/? UNL 1 C:  7.411
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.26/? UNL 1 C:  7.607
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.18/? UNL 1 C:  7.756
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.9/? UNL 1 C:  7.772
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.22/? UNL 1 C:  7.810
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.42/? UNL 1 C:  7.860
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.41/? UNL 1 C:  7.909
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.2/? UNL 1 C:  7.974
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.14/? UNL 1 C:  7.989
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.29/? UNL 1 C:  8.020
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.11/? UNL 1 C:  8.028
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.35/? UNL 1 C:  8.227
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.19/? UNL 1 C:  8.322
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.11/? UNL 1 C:  8.413
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.47/? UNL 1 C:  8.438
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.29/? UNL 1 C:  8.487
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.40/? UNL 1 C:  8.510
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.39/? UNL 1 C:  8.591
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.6/? UNL 1 C:  8.605
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.10/? UNL 1 C:  8.610
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.11/? UNL 1 C:  8.614
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.25/? UNL 1 C:  8.651
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.43/? UNL 1 C:  8.674
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.5/? UNL 1 C:  8.691
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.32/? UNL 1 C:  8.761
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.8/? UNL 1 C:  8.791
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.16/? UNL 1 C:  8.809
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.30/? UNL 1 C:  8.823
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.3/? UNL 1 C:  8.844
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.4/? UNL 1 C:  8.936
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.14/? UNL 1 C:  8.936
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.41/? UNL 1 C:  8.943
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.1/? UNL 1 C:  8.952
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.15/? UNL 1 C:  8.978
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.6/? UNL 1 C:  9.041
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.31/? UNL 1 C:  9.091
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.49/? UNL 1 C:  9.151
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.12/? UNL 1 C:  9.240
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.9/? UNL 1 C:  9.240
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.28/? UNL 1 C:  9.305
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.27/? UNL 1 C:  9.328
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.14/? UNL 1 C:  9.834
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.18/? UNL 1 C:  9.854
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.16/? UNL 1 C:  10.059
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.47/? UNL 1 C:  10.144
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.7/? UNL 1 C:  10.375
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.28/? UNL 1 C:  10.407
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.45/? UNL 1 C:  10.418
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.50/? UNL 1 C:  10.474
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.17/? UNL 1 C:  10.521
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.24/? UNL 1 C:  10.578
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.36/? UNL 1 C:  10.580
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.20/? UNL 1 C:  10.612
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.39/? UNL 1 C:  10.637
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.20/? UNL 1 C:  10.700
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.29/? UNL 1 C:  10.746
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.7/? UNL 1 C:  10.751
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.38/? UNL 1 C:  10.782
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.19/? UNL 1 C:  10.829
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.48/? UNL 1 C:  10.859
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.21/? UNL 1 C:  10.928
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.37/? UNL 1 C:  10.974
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.48/? UNL 1 C:  11.097
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.50/? UNL 1 C:  11.129
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.12/? UNL 1 C:  11.154
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.42/? UNL 1 C:  11.182
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.30/? UNL 1 C:  11.212
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.15/? UNL 1 C:  11.310
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.49/? UNL 1 C:  11.375
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.39/? UNL 1 C:  11.381
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.41/? UNL 1 C:  11.420
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.27/? UNL 1 C:  11.439
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.45/? UNL 1 C:  11.468
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.18/? UNL 1 C:  11.512
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.44/? UNL 1 C:  11.529
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.46/? UNL 1 C:  11.574
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.27/? UNL 1 C:  11.592
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.19/? UNL 1 C:  11.626
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.44/? UNL 1 C:  11.720
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.34/? UNL 1 C:  11.764
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.33/? UNL 1 C:  11.769
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.23/? UNL 1 C:  11.850
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.50/? UNL 1 C:  11.881
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.49/? UNL 1 C:  11.909
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.12/? UNL 1 C:  11.936
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.22/? UNL 1 C:  12.100
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.47/? UNL 1 C:  12.349
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.40/? UNL 1 C:  12.378
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.17/? UNL 1 C:  12.401
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.31/? UNL 1 C:  12.456
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.36/? UNL 1 C:  12.479
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.44/? UNL 1 C:  12.485
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.34/? UNL 1 C:  12.911
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.21/? UNL 1 C:  12.965
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.8/? UNL 1 C:  13.132
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.23/? UNL 1 C:  13.231
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.32/? UNL 1 C:  13.253
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.13/? UNL 1 C:  13.271
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.35/? UNL 1 C:  13.289
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.46/? UNL 1 C:  13.775
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.28/? UNL 1 C:  14.005
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.38/? UNL 1 C:  14.082
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.40/? UNL 1 C:  14.706
+HsubCXE5_noSP_ranked0_orient.pdb #1/A SER 201 OG <-> HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.46/? UNL 1 C:  14.900

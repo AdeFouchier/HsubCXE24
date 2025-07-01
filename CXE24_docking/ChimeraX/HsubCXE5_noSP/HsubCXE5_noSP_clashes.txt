@@ -1,0 +1,15 @@
+Allowed overlap: 0.6
+H-bond overlap reduction: 0.4
+Ignore clashes between atoms separated by 4 bonds or less
+Detect intra-residue clashes: False
+Detect intra-molecule clashes: True
+
+7 clashes
+                                atom1                                                        atom2                         overlap  distance
+HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.17/? UNL 1 C   HsubCXE5_noSP_ranked0_orient.pdb #1/A PHE 334 HE1    0.776    2.104
+HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.24/? UNL 1 C   HsubCXE5_noSP_ranked0_orient.pdb #1/A VAL 290 HG13   0.705    2.175
+HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.26/? UNL 1 C   HsubCXE5_noSP_ranked0_orient.pdb #1/A TYR 124 HE2    0.640    2.240
+HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.24/? UNL 1 C   HsubCXE5_noSP_ranked0_orient.pdb #1/A LYS 337 HE2    0.639    2.241
+HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.1/? UNL 1 C    HsubCXE5_noSP_ranked0_orient.pdb #1/A PHE 334 HE1    0.628    2.252
+HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdb #3.5/? UNL 1 C    HsubCXE5_noSP_ranked0_orient.pdb #1/A VAL 290 HG13   0.624    2.256
+HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.45/? UNL 1 C  HsubCXE5_noSP_ranked0_orient.pdb #1/A PHE 334 HE1    0.617    2.263

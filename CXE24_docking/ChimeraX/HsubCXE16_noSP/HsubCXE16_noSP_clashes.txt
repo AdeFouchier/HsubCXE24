@@ -1,0 +1,9 @@
+Allowed overlap: 0.6
+H-bond overlap reduction: 0.4
+Ignore clashes between atoms separated by 4 bonds or less
+Detect intra-residue clashes: False
+Detect intra-molecule clashes: True
+
+1 clashes
+                                atom1                                                        atom2                        overlap  distance
+HsubCXE16_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.5/? UNL 1 C  HsubCXE16_noSP_ranked0_orient.pdb #1/A VAL 124 HA   0.618    2.262
