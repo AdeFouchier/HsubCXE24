@@ -66,7 +66,7 @@ Distance_data <- list() # creating list to receive data
 Plots <- list()
 
 # Preparing label for plotting
-Plots[["Labels"]][["enzymes"]] <- c(#"HvirCXE24",
+Plots[["Labels"]][["enzymes"]] <- c("HvirCXE24",
                                     #"HsubCXE5",
                                     #"HsubCXE16",
                                     "HsubCXE24_allele1",
@@ -74,7 +74,7 @@ Plots[["Labels"]][["enzymes"]] <- c(#"HvirCXE24",
                                     "HsubCXE24_del31",
                                     "HsubCXE24_HsubTED_trunc")
 
-names(Plots[["Labels"]][["enzymes"]]) <- c(#"HvirCXE24_noSP",
+names(Plots[["Labels"]][["enzymes"]]) <- c("HvirCXE24_noSP",
                                            #"HsubCXE5_noSP",
                                            #"HsubCXE16_noSP",
                                            "HsubCXE24_allele1_noSP",

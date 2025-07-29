@@ -6,5 +6,5 @@ Detect intra-molecule clashes: True
 
 2 clashes
                                        atom1                                                                      atom2                                overlap  distance
-HsubCXE21_HsubTED_trunc_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.4/? UNL 1 C  HsubCXE21_HsubTED_trunc_noSP_ranked0_orient.pdb #1/A TRP 325 HH2   0.619    2.261
-HsubCXE21_HsubTED_trunc_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.28/? UNL 1 C  HsubCXE21_HsubTED_trunc_noSP_ranked0_orient.pdb #1/A TYR 115 HE2   0.601    2.279
+HsubCXE24_HsubTED_trunc_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdb #4.4/? UNL 1 C  HsubCXE24_HsubTED_trunc_noSP_ranked0_orient.pdb #1/A TRP 325 HH2   0.619    2.261
+HsubCXE24_HsubTED_trunc_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdb #2.28/? UNL 1 C  HsubCXE24_HsubTED_trunc_noSP_ranked0_orient.pdb #1/A TYR 115 HE2   0.601    2.279

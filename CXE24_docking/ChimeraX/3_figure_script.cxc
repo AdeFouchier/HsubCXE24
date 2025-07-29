@@ -1,10 +1,6 @@
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/HsubCXE21_allele1_noSP/HsubCXE21_allele1_noSP_orient_pdbqt_w_distances.cxs"
-cd "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/HsubCXE21_allele1_noSP/"
-hide #2-4 models
+open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/HsubCXE24_allele1_noSP/HsubCXE24_allele1_noSP_orient_pdbqt_w_distances.cxs"
+cd "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/HsubCXE24_allele1_noSP/"
 hide #5-7 models
-show #4.1 models
-show #2.1 models
-show #3.1 models
 set bgColor white
 color #1 silver ribbons
 name important_residues #1:192,322,441
@@ -15,14 +11,13 @@ color #3 #1B9E77
 color #4 #D95F02
 color byhetero
 show #1 surface
-color #1 silver surface transparency 66
+color #1 tan surface transparency 66
 graphics silhouettes true
 hide #1:1-8 cartoons
 hide #1:1-8 surface
 view orient
-turn y -137 coordinateSystem #1
 zoom 1.3
-save "HsubCXE21_allele1_noSP_orient_front.png" width 1440 height 1080 supersample 10
+save "HsubCXE24_allele1_noSP_all_models_orient_front.png" width 1440 height 1080 supersample 10
 movie record supersample 3 limit 540 size 1440,1080
 wait 30
 label delete
@@ -30,35 +25,47 @@ wait 15
 turn y 1 360 center #1 coordinateSystem #1
 wait 390
 wait 90
-movie encode output "HsubCXE21_allele1_noSP_orient_front_movie.mp4" format h264 framerate 30 wait true
+movie encode output "HsubCXE24_allele1_noSP_all_models_orient_front_movie.mp4" format h264 framerate 30 wait true
+hide #2-4 models
+show #4.1 models
+show #2.1 models
+show #3.1 models
+view orient
+turn y -137 coordinateSystem #1
+zoom 1.3
+save "HsubCXE24_allele1_noSP_orient_front.png" width 1440 height 1080 supersample 10
+movie record supersample 3 limit 540 size 1440,1080
+wait 30
+label delete
+wait 15
+turn y 1 360 center #1 coordinateSystem #1
+wait 390
+wait 90
+movie encode output "HsubCXE24_allele1_noSP_orient_front_movie.mp4" format h264 framerate 30 wait true
 view orient
 turn x 90 coordinateSystem #1
 turn y -90 coordinateSystem #1
-zoom 1.2
-save "HsubCXE21_allele1_noSP_orient_top.png" width 1440 height 1080 supersample 10
+zoom 1.3
+save "HsubCXE24_allele1_noSP_orient_top.png" width 1440 height 1080 supersample 10
 sel zone #1:192 #4.1/?:1@@serial_number=9 #2.1/?:1@@serial_number=8 #3.1/?:1@@serial_number=18 8
 view sel orient
 sel clear
 turn x 46 coordinateSystem #1
 turn y -137 coordinateSystem #1
-save "HsubCXE21_allele1_noSP_orient_zoom.png" width 1440 height 1080 supersample 10
+save "HsubCXE24_allele1_noSP_orient_zoom.png" width 1440 height 1080 supersample 10
 movie record supersample 3 limit 450 size 1440,1080
 wait 30
 wait 15
 turn y 1 360 center #1:192@OG #4.1/?:1@@serial_number=9 #2.1/?:1@@serial_number=8 #3.1/?:1@@serial_number=18 coordinateSystem #1
 wait 390
 wait 90
-movie encode output "HsubCXE21_allele1_noSP_orient_zoom_movie.mp4" format h264 framerate 30 wait true
+movie encode output "HsubCXE24_allele1_noSP_orient_zoom_movie.mp4" format h264 framerate 30 wait true
 view orient
-save "HsubCXE21_allele1_noSP_orient_pdbqt_for_figure.cxs"
+save "HsubCXE24_allele1_noSP_orient_pdbqt_for_figure.cxs"
 close session
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/HsubCXE21_del28_noSP/HsubCXE21_del28_noSP_orient_pdbqt_w_distances.cxs"
-cd "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/HsubCXE21_del28_noSP/"
-hide #2-4 models
+open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/HsubCXE24_del28_noSP/HsubCXE24_del28_noSP_orient_pdbqt_w_distances.cxs"
+cd "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/HsubCXE24_del28_noSP/"
 hide #5-7 models
-show #4.2 models
-show #2.1 models
-show #3.1 models
 set bgColor white
 color #1 silver ribbons
 name important_residues #1:192,322
@@ -69,14 +76,13 @@ color #3 #1B9E77
 color #4 #D95F02
 color byhetero
 show #1 surface
-color #1 silver surface transparency 66
+color #1 tan surface transparency 66
 graphics silhouettes true
 hide #1:1-8,392-395 cartoons
 hide #1:1-8,392-395 surface
 view orient
-turn y -137 coordinateSystem #1
 zoom 1.3
-save "HsubCXE21_del28_noSP_orient_front.png" width 1440 height 1080 supersample 10
+save "HsubCXE24_del28_noSP_all_models_orient_front.png" width 1440 height 1080 supersample 10
 movie record supersample 3 limit 540 size 1440,1080
 wait 30
 label delete
@@ -84,35 +90,47 @@ wait 15
 turn y 1 360 center #1 coordinateSystem #1
 wait 390
 wait 90
-movie encode output "HsubCXE21_del28_noSP_orient_front_movie.mp4" format h264 framerate 30 wait true
+movie encode output "HsubCXE24_del28_noSP_all_models_orient_front_movie.mp4" format h264 framerate 30 wait true
+hide #2-4 models
+show #4.2 models
+show #2.1 models
+show #3.1 models
+view orient
+turn y -137 coordinateSystem #1
+zoom 1.3
+save "HsubCXE24_del28_noSP_orient_front.png" width 1440 height 1080 supersample 10
+movie record supersample 3 limit 540 size 1440,1080
+wait 30
+label delete
+wait 15
+turn y 1 360 center #1 coordinateSystem #1
+wait 390
+wait 90
+movie encode output "HsubCXE24_del28_noSP_orient_front_movie.mp4" format h264 framerate 30 wait true
 view orient
 turn x 90 coordinateSystem #1
 turn y -90 coordinateSystem #1
-zoom 1.2
-save "HsubCXE21_del28_noSP_orient_top.png" width 1440 height 1080 supersample 10
+zoom 1.3
+save "HsubCXE24_del28_noSP_orient_top.png" width 1440 height 1080 supersample 10
 sel zone #1:192 #4.2/?:1@@serial_number=9 #2.1/?:1@@serial_number=8 #3.1/?:1@@serial_number=18 8
 view sel orient
 sel clear
 turn x 46 coordinateSystem #1
 turn y -137 coordinateSystem #1
-save "HsubCXE21_del28_noSP_orient_zoom.png" width 1440 height 1080 supersample 10
+save "HsubCXE24_del28_noSP_orient_zoom.png" width 1440 height 1080 supersample 10
 movie record supersample 3 limit 450 size 1440,1080
 wait 30
 wait 15
 turn y 1 360 center #1:192@OG #4.2/?:1@@serial_number=9 #2.1/?:1@@serial_number=8 #3.1/?:1@@serial_number=18 coordinateSystem #1
 wait 390
 wait 90
-movie encode output "HsubCXE21_del28_noSP_orient_zoom_movie.mp4" format h264 framerate 30 wait true
+movie encode output "HsubCXE24_del28_noSP_orient_zoom_movie.mp4" format h264 framerate 30 wait true
 view orient
-save "HsubCXE21_del28_noSP_orient_pdbqt_for_figure.cxs"
+save "HsubCXE24_del28_noSP_orient_pdbqt_for_figure.cxs"
 close session
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/HsubCXE21_del31_noSP/HsubCXE21_del31_noSP_orient_pdbqt_w_distances.cxs"
-cd "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/HsubCXE21_del31_noSP/"
-hide #2-4 models
+open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/HsubCXE24_del31_noSP/HsubCXE24_del31_noSP_orient_pdbqt_w_distances.cxs"
+cd "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/HsubCXE24_del31_noSP/"
 hide #5-7 models
-show #4.2 models
-show #2.1 models
-show #3.1 models
 set bgColor white
 color #1 silver ribbons
 name important_residues #1:192,322
@@ -123,14 +141,13 @@ color #3 #1B9E77
 color #4 #D95F02
 color byhetero
 show #1 surface
-color #1 silver surface transparency 66
+color #1 tan surface transparency 66
 graphics silhouettes true
 hide #1:1-8,391-394 cartoons
 hide #1:1-8,391-394 surface
 view orient
-turn y -137 coordinateSystem #1
 zoom 1.3
-save "HsubCXE21_del31_noSP_orient_front.png" width 1440 height 1080 supersample 10
+save "HsubCXE24_del31_noSP_all_models_orient_front.png" width 1440 height 1080 supersample 10
 movie record supersample 3 limit 540 size 1440,1080
 wait 30
 label delete
@@ -138,35 +155,47 @@ wait 15
 turn y 1 360 center #1 coordinateSystem #1
 wait 390
 wait 90
-movie encode output "HsubCXE21_del31_noSP_orient_front_movie.mp4" format h264 framerate 30 wait true
+movie encode output "HsubCXE24_del31_noSP_all_models_orient_front_movie.mp4" format h264 framerate 30 wait true
+hide #2-4 models
+show #4.2 models
+show #2.1 models
+show #3.1 models
+view orient
+turn y -137 coordinateSystem #1
+zoom 1.3
+save "HsubCXE24_del31_noSP_orient_front.png" width 1440 height 1080 supersample 10
+movie record supersample 3 limit 540 size 1440,1080
+wait 30
+label delete
+wait 15
+turn y 1 360 center #1 coordinateSystem #1
+wait 390
+wait 90
+movie encode output "HsubCXE24_del31_noSP_orient_front_movie.mp4" format h264 framerate 30 wait true
 view orient
 turn x 90 coordinateSystem #1
 turn y -90 coordinateSystem #1
-zoom 1.2
-save "HsubCXE21_del31_noSP_orient_top.png" width 1440 height 1080 supersample 10
+zoom 1.3
+save "HsubCXE24_del31_noSP_orient_top.png" width 1440 height 1080 supersample 10
 sel zone #1:192 #4.2/?:1@@serial_number=9 #2.1/?:1@@serial_number=8 #3.1/?:1@@serial_number=18 8
 view sel orient
 sel clear
 turn x 46 coordinateSystem #1
 turn y -137 coordinateSystem #1
-save "HsubCXE21_del31_noSP_orient_zoom.png" width 1440 height 1080 supersample 10
+save "HsubCXE24_del31_noSP_orient_zoom.png" width 1440 height 1080 supersample 10
 movie record supersample 3 limit 450 size 1440,1080
 wait 30
 wait 15
 turn y 1 360 center #1:192@OG #4.2/?:1@@serial_number=9 #2.1/?:1@@serial_number=8 #3.1/?:1@@serial_number=18 coordinateSystem #1
 wait 390
 wait 90
-movie encode output "HsubCXE21_del31_noSP_orient_zoom_movie.mp4" format h264 framerate 30 wait true
+movie encode output "HsubCXE24_del31_noSP_orient_zoom_movie.mp4" format h264 framerate 30 wait true
 view orient
-save "HsubCXE21_del31_noSP_orient_pdbqt_for_figure.cxs"
+save "HsubCXE24_del31_noSP_orient_pdbqt_for_figure.cxs"
 close session
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/HsubCXE21_HsubTED_trunc_noSP/HsubCXE21_HsubTED_trunc_noSP_orient_pdbqt_w_distances.cxs"
-cd "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/HsubCXE21_HsubTED_trunc_noSP/"
-hide #2-4 models
+open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/HsubCXE24_HsubTED_trunc_noSP/HsubCXE24_HsubTED_trunc_noSP_orient_pdbqt_w_distances.cxs"
+cd "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/HsubCXE24_HsubTED_trunc_noSP/"
 hide #5-7 models
-show #4.1 models
-show #2.1 models
-show #3.1 models
 set bgColor white
 color #1 silver ribbons
 name important_residues #1:192,322
@@ -177,14 +206,13 @@ color #3 #1B9E77
 color #4 #D95F02
 color byhetero
 show #1 surface
-color #1 silver surface transparency 66
+color #1 tan surface transparency 66
 graphics silhouettes true
 hide #1:1-8 cartoons
 hide #1:1-8 surface
 view orient
-turn y -137 coordinateSystem #1
 zoom 1.3
-save "HsubCXE21_HsubTED_trunc_noSP_orient_front.png" width 1440 height 1080 supersample 10
+save "HsubCXE24_HsubTED_trunc_noSP_all_models_orient_front.png" width 1440 height 1080 supersample 10
 movie record supersample 3 limit 540 size 1440,1080
 wait 30
 label delete
@@ -192,26 +220,42 @@ wait 15
 turn y 1 360 center #1 coordinateSystem #1
 wait 390
 wait 90
-movie encode output "HsubCXE21_HsubTED_trunc_noSP_orient_front_movie.mp4" format h264 framerate 30 wait true
+movie encode output "HsubCXE24_HsubTED_trunc_noSP_all_models_orient_front_movie.mp4" format h264 framerate 30 wait true
+hide #2-4 models
+show #4.1 models
+show #2.1 models
+show #3.1 models
+view orient
+turn y -137 coordinateSystem #1
+zoom 1.3
+save "HsubCXE24_HsubTED_trunc_noSP_orient_front.png" width 1440 height 1080 supersample 10
+movie record supersample 3 limit 540 size 1440,1080
+wait 30
+label delete
+wait 15
+turn y 1 360 center #1 coordinateSystem #1
+wait 390
+wait 90
+movie encode output "HsubCXE24_HsubTED_trunc_noSP_orient_front_movie.mp4" format h264 framerate 30 wait true
 view orient
 turn x 90 coordinateSystem #1
 turn y -90 coordinateSystem #1
-zoom 1.2
-save "HsubCXE21_HsubTED_trunc_noSP_orient_top.png" width 1440 height 1080 supersample 10
+zoom 1.3
+save "HsubCXE24_HsubTED_trunc_noSP_orient_top.png" width 1440 height 1080 supersample 10
 sel zone #1:192 #4.1/?:1@@serial_number=9 #2.1/?:1@@serial_number=8 #3.1/?:1@@serial_number=18 8
 view sel orient
 sel clear
 turn x 46 coordinateSystem #1
 turn y -137 coordinateSystem #1
-save "HsubCXE21_HsubTED_trunc_noSP_orient_zoom.png" width 1440 height 1080 supersample 10
+save "HsubCXE24_HsubTED_trunc_noSP_orient_zoom.png" width 1440 height 1080 supersample 10
 movie record supersample 3 limit 450 size 1440,1080
 wait 30
 wait 15
 turn y 1 360 center #1:192@OG #4.1/?:1@@serial_number=9 #2.1/?:1@@serial_number=8 #3.1/?:1@@serial_number=18 coordinateSystem #1
 wait 390
 wait 90
-movie encode output "HsubCXE21_HsubTED_trunc_noSP_orient_zoom_movie.mp4" format h264 framerate 30 wait true
+movie encode output "HsubCXE24_HsubTED_trunc_noSP_orient_zoom_movie.mp4" format h264 framerate 30 wait true
 view orient
-save "HsubCXE21_HsubTED_trunc_noSP_orient_pdbqt_for_figure.cxs"
+save "HsubCXE24_HsubTED_trunc_noSP_orient_pdbqt_for_figure.cxs"
 close session
 quit

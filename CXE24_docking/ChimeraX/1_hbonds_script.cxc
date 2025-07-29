@@ -1,50 +1,29 @@
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/Oriented models/HvirCXE21_noSP_ranked0_orient.pdb"
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HvirCXE21_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdbqt" "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HvirCXE21_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdbqt" "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HvirCXE21_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdbqt" showTool false
-cd "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/HvirCXE21_noSP/"
-hbonds #2 #3 #4 restrict #!1 saveFile HvirCXE21_noSP_hbonds.txt
-clashes #2 #3 #4 restrict #!1 saveFile HvirCXE21_noSP_clashes.txt
-save "HvirCXE21_noSP_orient_pdbqt_w_hbonds.cxs"
+open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/Oriented models/HsubCXE24_allele1_noSP_ranked0_orient.pdb"
+open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE24_allele1_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdbqt" "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE24_allele1_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdbqt" "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE24_allele1_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdbqt" showTool false
+cd "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/HsubCXE24_allele1_noSP/"
+hbonds #2 #3 #4 restrict #!1 saveFile HsubCXE24_allele1_noSP_hbonds.txt
+clashes #2 #3 #4 restrict #!1 saveFile HsubCXE24_allele1_noSP_clashes.txt
+save "HsubCXE24_allele1_noSP_orient_pdbqt_w_hbonds.cxs"
 close session
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/Oriented models/HsubCXE5_noSP_ranked0_orient.pdb"
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdbqt" "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdbqt" "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE5_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdbqt" showTool false
-cd "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/HsubCXE5_noSP/"
-hbonds #2 #3 #4 restrict #!1 saveFile HsubCXE5_noSP_hbonds.txt
-clashes #2 #3 #4 restrict #!1 saveFile HsubCXE5_noSP_clashes.txt
-save "HsubCXE5_noSP_orient_pdbqt_w_hbonds.cxs"
+open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/Oriented models/HsubCXE24_del28_noSP_ranked0_orient.pdb"
+open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE24_del28_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdbqt" "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE24_del28_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdbqt" "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE24_del28_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdbqt" showTool false
+cd "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/HsubCXE24_del28_noSP/"
+hbonds #2 #3 #4 restrict #!1 saveFile HsubCXE24_del28_noSP_hbonds.txt
+clashes #2 #3 #4 restrict #!1 saveFile HsubCXE24_del28_noSP_clashes.txt
+save "HsubCXE24_del28_noSP_orient_pdbqt_w_hbonds.cxs"
 close session
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/Oriented models/HsubCXE16_noSP_ranked0_orient.pdb"
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE16_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdbqt" "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE16_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdbqt" "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE16_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdbqt" showTool false
-cd "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/HsubCXE16_noSP/"
-hbonds #2 #3 #4 restrict #!1 saveFile HsubCXE16_noSP_hbonds.txt
-clashes #2 #3 #4 restrict #!1 saveFile HsubCXE16_noSP_clashes.txt
-save "HsubCXE16_noSP_orient_pdbqt_w_hbonds.cxs"
+open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/Oriented models/HsubCXE24_del31_noSP_ranked0_orient.pdb"
+open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE24_del31_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdbqt" "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE24_del31_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdbqt" "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE24_del31_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdbqt" showTool false
+cd "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/HsubCXE24_del31_noSP/"
+hbonds #2 #3 #4 restrict #!1 saveFile HsubCXE24_del31_noSP_hbonds.txt
+clashes #2 #3 #4 restrict #!1 saveFile HsubCXE24_del31_noSP_clashes.txt
+save "HsubCXE24_del31_noSP_orient_pdbqt_w_hbonds.cxs"
 close session
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/Oriented models/HsubCXE21_allele1_noSP_ranked0_orient.pdb"
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE21_allele1_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdbqt" "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE21_allele1_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdbqt" "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE21_allele1_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdbqt" showTool false
-cd "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/HsubCXE21_allele1_noSP/"
-hbonds #2 #3 #4 restrict #!1 saveFile HsubCXE21_allele1_noSP_hbonds.txt
-clashes #2 #3 #4 restrict #!1 saveFile HsubCXE21_allele1_noSP_clashes.txt
-save "HsubCXE21_allele1_noSP_orient_pdbqt_w_hbonds.cxs"
-close session
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/Oriented models/HsubCXE21_del28_noSP_ranked0_orient.pdb"
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE21_del28_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdbqt" "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE21_del28_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdbqt" "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE21_del28_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdbqt" showTool false
-cd "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/HsubCXE21_del28_noSP/"
-hbonds #2 #3 #4 restrict #!1 saveFile HsubCXE21_del28_noSP_hbonds.txt
-clashes #2 #3 #4 restrict #!1 saveFile HsubCXE21_del28_noSP_clashes.txt
-save "HsubCXE21_del28_noSP_orient_pdbqt_w_hbonds.cxs"
-close session
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/Oriented models/HsubCXE21_del31_noSP_ranked0_orient.pdb"
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE21_del31_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdbqt" "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE21_del31_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdbqt" "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE21_del31_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdbqt" showTool false
-cd "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/HsubCXE21_del31_noSP/"
-hbonds #2 #3 #4 restrict #!1 saveFile HsubCXE21_del31_noSP_hbonds.txt
-clashes #2 #3 #4 restrict #!1 saveFile HsubCXE21_del31_noSP_clashes.txt
-save "HsubCXE21_del31_noSP_orient_pdbqt_w_hbonds.cxs"
-close session
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/Oriented models/HsubCXE21_HsubTED_trunc_noSP_ranked0_orient.pdb"
-open "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE21_HsubTED_trunc_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdbqt" "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE21_HsubTED_trunc_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdbqt" "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE21_HsubTED_trunc_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdbqt" showTool false
-cd "C:/Pro/Projets/Heliothis Acetate production/CXE21_docking/ChimeraX/HsubCXE21_HsubTED_trunc_noSP/"
-hbonds #2 #3 #4 restrict #!1 saveFile HsubCXE21_HsubTED_trunc_noSP_hbonds.txt
-clashes #2 #3 #4 restrict #!1 saveFile HsubCXE21_HsubTED_trunc_noSP_clashes.txt
-save "HsubCXE21_HsubTED_trunc_noSP_orient_pdbqt_w_hbonds.cxs"
+open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/Oriented models/HsubCXE24_HsubTED_trunc_noSP_ranked0_orient.pdb"
+open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE24_HsubTED_trunc_noSP_ranked0_orient_pocket_1_vs_Z7-16Ac.pdbqt" "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE24_HsubTED_trunc_noSP_ranked0_orient_pocket_1_vs_Z9-16Ac.pdbqt" "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/Vina/Enzyme_vs_pherobase/output/HsubCXE24_HsubTED_trunc_noSP_ranked0_orient_pocket_1_vs_Z11-16Ac.pdbqt" showTool false
+cd "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/HsubCXE24_HsubTED_trunc_noSP/"
+hbonds #2 #3 #4 restrict #!1 saveFile HsubCXE24_HsubTED_trunc_noSP_hbonds.txt
+clashes #2 #3 #4 restrict #!1 saveFile HsubCXE24_HsubTED_trunc_noSP_clashes.txt
+save "HsubCXE24_HsubTED_trunc_noSP_orient_pdbqt_w_hbonds.cxs"
 close session
 quit

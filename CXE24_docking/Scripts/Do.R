@@ -296,18 +296,18 @@ for(i in Parameters[["enzyme"]]){ # Loop for all enzymes
   hbond_script <- c( # setting a the hbond_script a vector containing
     hbond_script, # the previously generated script
     c( # and another vector containing the following lines
-      paste0('open "C:/Pro/Projets/Heliothis Acetate production/CXE24_docking/ChimeraX/Oriented models/', # opening the pdbqt oriented model
+      paste0('open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/Oriented models/', # opening the pdbqt oriented model
              i,
              '_ranked0_orient.pdb"'),
       # below = opening the different ligands matched to the enzyme
-      paste0('open "C:/Pro/Projets/Heliothis Acetate production/CXE24_docking/Vina/Enzyme_vs_pherobase/output/',
+      paste0('open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/Vina/Enzyme_vs_pherobase/output/',
              i,
-             '_ranked0_orient_pocket_1_vs_Z7-16Ac.pdbqt" "C:/Pro/Projets/Heliothis Acetate production/CXE24_docking/Vina/Enzyme_vs_pherobase/output/',
+             '_ranked0_orient_pocket_1_vs_Z7-16Ac.pdbqt" "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/Vina/Enzyme_vs_pherobase/output/',
              i,
-             '_ranked0_orient_pocket_1_vs_Z9-16Ac.pdbqt" "C:/Pro/Projets/Heliothis Acetate production/CXE24_docking/Vina/Enzyme_vs_pherobase/output/',
+             '_ranked0_orient_pocket_1_vs_Z9-16Ac.pdbqt" "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/Vina/Enzyme_vs_pherobase/output/',
              i,
              '_ranked0_orient_pocket_1_vs_Z11-16Ac.pdbqt" showTool false'), # while hiding the "ViewDockX" tool
-      paste0('cd "C:/Pro/Projets/Heliothis Acetate production/CXE24_docking/ChimeraX/',
+      paste0('cd "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/',
              i,
              '/"'),
       paste0("hbonds #2 #3 #4 restrict #!1 saveFile ",
@@ -642,12 +642,12 @@ distance_script <- c()
 # Preparing the script
 for(i in Parameters[["enzyme"]]){
   distance_script <- c(distance_script,
-                       c(paste0('open "C:/Pro/Projets/Heliothis Acetate production/CXE24_docking/ChimeraX/',
+                       c(paste0('open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/',
                                 i,
                                 "/",
                                 i,
                                 '_orient_pdbqt_w_hbonds.cxs"'),
-                         paste0('cd "C:/Pro/Projets/Heliothis Acetate production/CXE24_docking/ChimeraX/',
+                         paste0('cd "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/',
                                 i,
                                 '/"'),
                          "distance delete",
@@ -988,26 +988,15 @@ figure_script <- c() # creating an empty vector to receive figure script
 # Building the script
 for(i in Parameters[["enzyme"]]){
   figure_script <- c(figure_script,
-                     c(paste0('open "C:/Pro/Projets/Heliothis Acetate production/CXE24_docking/ChimeraX/', # opening previous Chimera X session
+                     c(paste0('open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/', # opening previous Chimera X session
                               i,
                               "/",
                               i,
                               '_orient_pdbqt_w_distances.cxs"'),
-                       paste0('cd "C:/Pro/Projets/Heliothis Acetate production/CXE24_docking/ChimeraX/', # setting the working directory
+                       paste0('cd "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/', # setting the working directory
                               i,
                               '/"'),
-                       "hide #2-4 models", # hiding models of for ligands
                        "hide #5-7 models", # hiding clashes and distances
-                       if(length((Parameters[["ChimeraX Figures"]] %>%
-                                  subset(enzyme == i))$enzyme) > 0){
-                         paste0("show #", # showing models with the min dist_SER..C
-                                (Parameters[["ChimeraX Figures"]] %>%
-                                   subset(enzyme == i))$ligand_id,
-                                ".",
-                                (Parameters[["ChimeraX Figures"]] %>%
-                                   subset(enzyme == i))$model,
-                                " models")
-                       },
                        "set bgColor white", # setting backgound color
                        #"color sequential residues palette #7570B3:#1B9E77", # coloring prot
                        "color #1 silver ribbons", # setting the color of the protein ribbons
@@ -1022,7 +1011,7 @@ for(i in Parameters[["enzyme"]]){
                        "color #4 #D95F02", # coloring ligands
                        "color byhetero", # coloring atoms shown
                        "show #1 surface", # displaying the surface
-                       "color #1 silver surface transparency 66", # setting the surfance color and transparency
+                       "color #1 tan surface transparency 66", # setting the surfance color and transparency
                        "graphics silhouettes true", # displaying silhouettes
                        if(i == "HvirCXE24_noSP"){# hiding cartoons of parts of the prot badly modelised
                          c("hide #1:1-11 cartoons",
@@ -1047,6 +1036,33 @@ for(i in Parameters[["enzyme"]]){
                          "hide #1:1-8 surface") # "hide #7:1-8,357-368 surface"
                        } ,
                        "view orient", # orienting view
+                      #"turn y -137 coordinateSystem #1",
+                       "zoom 1.3",
+                       paste0('save "', # saving a screenshot
+                              i,
+                              '_all_models_orient_front.png" width 1440 height 1080 supersample 10'),
+                       "movie record supersample 3 limit 540 size 1440,1080", # starting the recording of a movie
+                       "wait 30", # waiting to have time to read the labels
+                       "label delete", # removing labels
+                       "wait 15", # waiting before turning
+                       "turn y 1 360 center #1 coordinateSystem #1", # turning the prot 360°
+                       "wait 390", # waiting to be sure that the turn is complete
+                       "wait 90",
+                       paste0('movie encode output "', # saving the movie
+                              i,
+                              '_all_models_orient_front_movie.mp4" format h264 framerate 30 wait true'),
+                       "hide #2-4 models", # hiding models of for ligands
+                      if(length((Parameters[["ChimeraX Figures"]] %>%
+                                 subset(enzyme == i))$enzyme) > 0){
+                        paste0("show #", # showing models with the min dist_SER..C
+                               (Parameters[["ChimeraX Figures"]] %>%
+                                  subset(enzyme == i))$ligand_id,
+                               ".",
+                               (Parameters[["ChimeraX Figures"]] %>%
+                                  subset(enzyme == i))$model,
+                               " models")
+                      },
+                      "view orient", # orienting view
                        "turn y -137 coordinateSystem #1",
                        "zoom 1.3",
                        paste0('save "', # saving a screenshot
@@ -1065,7 +1081,7 @@ for(i in Parameters[["enzyme"]]){
                        "view orient", # orienting view
                        "turn x 90 coordinateSystem #1",
                        "turn y -90 coordinateSystem #1",
-                       "zoom 1.2",
+                       "zoom 1.3",
                        paste0('save "', # saving a screenshot
                               i,
                               '_orient_top.png" width 1440 height 1080 supersample 10'),
