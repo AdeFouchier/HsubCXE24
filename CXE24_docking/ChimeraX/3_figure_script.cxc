@@ -2,7 +2,7 @@ open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CX
 cd "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/HsubCXE24_allele1_noSP/"
 hide #5-7 models
 set bgColor white
-color #1 silver ribbons
+color #1 tan ribbons
 name important_residues #1:192,322,441
 show important_residues atoms
 color important_residues #E7298A
@@ -11,7 +11,7 @@ color #3 #1B9E77
 color #4 #D95F02
 color byhetero
 show #1 surface
-color #1 tan surface transparency 66
+color #1 black surface transparency 85
 graphics silhouettes true
 hide #1:1-8 cartoons
 hide #1:1-8 surface
@@ -67,7 +67,7 @@ open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CX
 cd "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/HsubCXE24_del28_noSP/"
 hide #5-7 models
 set bgColor white
-color #1 silver ribbons
+color #1 tan ribbons
 name important_residues #1:192,322
 show important_residues atoms
 color important_residues #E7298A
@@ -76,7 +76,7 @@ color #3 #1B9E77
 color #4 #D95F02
 color byhetero
 show #1 surface
-color #1 tan surface transparency 66
+color #1 black surface transparency 85
 graphics silhouettes true
 hide #1:1-8,392-395 cartoons
 hide #1:1-8,392-395 surface
@@ -132,7 +132,7 @@ open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CX
 cd "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/HsubCXE24_del31_noSP/"
 hide #5-7 models
 set bgColor white
-color #1 silver ribbons
+color #1 tan ribbons
 name important_residues #1:192,322
 show important_residues atoms
 color important_residues #E7298A
@@ -141,7 +141,7 @@ color #3 #1B9E77
 color #4 #D95F02
 color byhetero
 show #1 surface
-color #1 tan surface transparency 66
+color #1 black surface transparency 85
 graphics silhouettes true
 hide #1:1-8,391-394 cartoons
 hide #1:1-8,391-394 surface
@@ -197,7 +197,7 @@ open "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CX
 cd "C:/Pro/Publications_Rapports/202x-Fruitet_et_al.-CXE24/GitHub/HsubCXE24/CXE24_docking/ChimeraX/HsubCXE24_HsubTED_trunc_noSP/"
 hide #5-7 models
 set bgColor white
-color #1 silver ribbons
+color #1 tan ribbons
 name important_residues #1:192,322
 show important_residues atoms
 color important_residues #E7298A
@@ -206,7 +206,7 @@ color #3 #1B9E77
 color #4 #D95F02
 color byhetero
 show #1 surface
-color #1 tan surface transparency 66
+color #1 black surface transparency 85
 graphics silhouettes true
 hide #1:1-8 cartoons
 hide #1:1-8 surface

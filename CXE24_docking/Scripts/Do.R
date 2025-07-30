@@ -999,7 +999,7 @@ for(i in Parameters[["enzyme"]]){
                        "hide #5-7 models", # hiding clashes and distances
                        "set bgColor white", # setting backgound color
                        #"color sequential residues palette #7570B3:#1B9E77", # coloring prot
-                       "color #1 silver ribbons", # setting the color of the protein ribbons
+                       "color #1 tan ribbons", # setting the color of the protein ribbons
                        paste0("name important_residues #1:", # naming the selection of important residues
                               paste((Parameters[["relevant_residues"]] %>%
                                        subset(enzyme == i))$prot_AA_pos,
@@ -1011,7 +1011,7 @@ for(i in Parameters[["enzyme"]]){
                        "color #4 #D95F02", # coloring ligands
                        "color byhetero", # coloring atoms shown
                        "show #1 surface", # displaying the surface
-                       "color #1 tan surface transparency 66", # setting the surfance color and transparency
+                       "color #1 black surface transparency 85", # setting the surfance color and transparency
                        "graphics silhouettes true", # displaying silhouettes
                        if(i == "HvirCXE24_noSP"){# hiding cartoons of parts of the prot badly modelised
                          c("hide #1:1-11 cartoons",
